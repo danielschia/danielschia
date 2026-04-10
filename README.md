@@ -48,13 +48,6 @@ Evolved a 10-year-old Rails codebase. Built an RSpec + Cucumber test suite from 
 
 ---
 
-## GitHub stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielschia&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielschia&layout=compact&hide_border=true)
-
----
-
 ## Languages
 
 🇧🇷 Portuguese — Native  ·  🇬🇧 English — Fluent  ·  🇫🇷 French — Intermediate  ·  🇪🇸 Spanish — Intermediate
