@@ -2,7 +2,7 @@
 
 **Fullstack Developer · Python · Ruby on Rails · REST APIs · PostgreSQL**
 
-📍 Florianópolis, SC  ·  ✉️ daniel.schia@gmail.com  ·  🔗 [github.com/danielschia](https://github.com/danielschia)
+📍 Florianópolis, SC  ·  ✉️ daniel.schia@gmail.com  ·  🔗 [github.com/danielschia](https://github.com/danielschia)  ·  💼 [linkedin.com/in/daniel-schiavoni](https://www.linkedin.com/in/daniel-schiavoni/)
 
 ---
 
