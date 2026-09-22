@@ -1,6 +1,6 @@
 # Daniel Schiavoni
 
-**Backend Developer · Python · Ruby on Rails · REST APIs · PostgreSQL**
+**Fullstack Developer · Python · Ruby on Rails · REST APIs · PostgreSQL**
 
 📍 Florianópolis, SC  ·  ✉️ daniel.schia@gmail.com  ·  🔗 [github.com/danielschia](https://github.com/danielschia)
 
