@@ -8,7 +8,7 @@
 
 ## About
 
-Backend developer focused on Ruby on Rails — building robust, scalable REST APIs and maintainable systems. Experienced in PostgreSQL, Sidekiq, Redis, RSpec and Clean Code practices.
+Backend developer focused on Python and Ruby — building robust, scalable REST APIs and maintainable systems. Experienced in PostgreSQL, Sidekiq, Redis, RSpec and Clean Code practices.
 
 Before transitioning to tech, I worked as a journalist. That means I translate technical problems clearly, collaborate well with cross-functional teams, and write documentation that genuinely helps.
 
