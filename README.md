@@ -124,6 +124,3 @@ PUC-Rio coursework
 
 🇧🇷 Portuguese — Native · 🇬🇧 English — Fluent *(primary working language with U.S. enterprise clients at Salsify)* · 🇫🇷 French — Intermediate · 🇪🇸 Spanish — Intermediate
 
----
-
-Open to remote roles and to work with 4+ hours daily overlap with U.S. business hours.
