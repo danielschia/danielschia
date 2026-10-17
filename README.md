@@ -27,14 +27,6 @@ that actually helps the next person.
 
 ## Selected work
 
-**[pimlint](https://github.com/danielschia/pimlint)** · Python, PyYAML, pytest
-A product feed validator. Reads a CSV of products, compares it against a
-declarative YAML schema per channel (required attributes, types, enums, length
-limits, regex patterns) and reports each violation with line, column and reason,
-ordered by severity. Computes a completeness score, detects columns outside the
-schema, and returns non-zero exit codes for CI. 29 tests, CI across Python
-3.11–3.13.
-
 **[controle_epi](https://github.com/danielschia/controle_epi)** · Django, pytest, GitHub Actions
 Inventory and loan management for personal protective equipment. Enforces record
 validity at the model layer — stock-availability and date-consistency rules raise
