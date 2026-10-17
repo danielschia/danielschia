@@ -8,16 +8,8 @@
 
 ## About
 
-Backend developer with **13 months inside Salsify**, working on the product data
-layer of a live PIM tenant: a Ruby on Rails application that ingested enterprise
-client CSV files and generated adaptive, client-specific product forms inside the
-platform — imports, mapping, attribute validation, required-field and completeness
-rules, and bulk data processing. That is the domain most PIM and e-commerce
-platform teams talk about, seen from the vendor side.
-
-Now works in Python and Django, and builds tools for the same problems:
-`pimlint` below validates a product feed against a channel schema and reports
-every violation with line, column and reason.
+Web Developer with a soft spot for User Experience. Currently working in support,
+I love to work with things that make people's live easier and better.
 
 Before tech, I worked as a journalist. It still shows up: I translate technical
 problems clearly, work well with cross-functional teams, and write documentation
@@ -37,6 +29,10 @@ idempotent management commands for repeatable data loads, and a pytest suite in 
 **[trackrr-api](https://github.com/danielschia/trackrr-api)** · Flask, Flask-SQLAlchemy, Flask-JWT-Extended, Flask-OpenAPI3
 REST API with JWT authentication, OpenAPI-generated documentation, and a service
 layer that keeps business logic out of the route handlers.
+
+**[mew-app](https://github.com/danielschia/mew_app)** · Flask, Flask-SQLAlchemy, Flask-JWT-Extended, Flask-OpenAPI3
+REST API with JWT authentication, OpenAPI-generated documentation, and a service
+layer that keeps business logic out of the route handlers. It also has a fun front-end in React.
 
 ---
 
